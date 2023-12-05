@@ -1,0 +1,31 @@
+body {
+    background-color: orangered;
+    text-align: center;
+    font-family: "Arial Black", Helvetica, sans-serif;
+    color: black;
+}
+.flex-conteiner {
+    display: flex;
+    flex-direction: column;
+}
+div{
+    align-self: baseline;
+    border: aqua;
+    margin: auto;
+}
+.im1 {
+    width: auto;
+    
+}
+.tn {
+    background-color: greenyellow;
+    width: auto;
+    margin: auto;
+    border: 1px solid black;
+}
+.final {
+    background-color: greenyellow;
+    width: auto;
+    margin: auto;
+    border: 1px solid black;
+}
